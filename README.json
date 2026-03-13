@@ -36,7 +36,7 @@
             "last_commit": "2024-10-30T19:01:10Z",
             "owner": "s0md3v",
             "repo": "AwesomeXSS",
-            "stars": 5070
+            "stars": 5071
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-03-09T12:05:03Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 75977
+            "stars": 76011
           }
         }
       ],
@@ -116,7 +116,7 @@
             "last_commit": "2026-03-09T12:05:03Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 75977
+            "stars": 76011
           }
         }
       ],
@@ -132,10 +132,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-03-12T03:56:17Z",
+            "last_commit": "2026-03-13T02:40:23Z",
             "owner": "ruby",
             "repo": "ruby",
-            "stars": 23590
+            "stars": 23576
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-03-09T12:05:03Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 75977
+            "stars": 76011
           }
         }
       ],
@@ -192,7 +192,7 @@
             "last_commit": "2026-03-09T12:05:03Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 75977
+            "stars": 76011
           }
         }
       ],
@@ -221,7 +221,7 @@
             "last_commit": "2026-03-09T12:05:03Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 75977
+            "stars": 76011
           }
         }
       ],
@@ -335,10 +335,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-11T20:39:13Z",
+            "last_commit": "2026-03-12T18:34:30Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 13285
+            "stars": 13296
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-02-10T08:48:11Z",
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 12739
+            "stars": 12745
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2022-09-20T18:09:09Z",
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6144
+            "stars": 6145
           }
         },
         {
@@ -524,7 +524,7 @@
             "last_commit": "2019-02-06T22:22:17Z",
             "owner": "vaguileradiaz",
             "repo": "tinfoleak",
-            "stars": 1967
+            "stars": 1968
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2025-06-10T09:17:18Z",
             "owner": "evyatarmeged",
             "repo": "Raccoon",
-            "stars": 3515
+            "stars": 3517
           }
         },
         {
@@ -741,7 +741,7 @@
             "last_commit": "2023-11-10T16:15:18Z",
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8840
+            "stars": 8843
           }
         },
         {
@@ -754,7 +754,7 @@
             "last_commit": "2023-10-29T00:20:05Z",
             "owner": "Nekmo",
             "repo": "dirhunt",
-            "stars": 1982
+            "stars": 1983
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2025-08-25T07:54:21Z",
             "owner": "Bo0oM",
             "repo": "fuzz.txt",
-            "stars": 3283
+            "stars": 3285
           }
         }
       ],
@@ -822,7 +822,7 @@
             "last_commit": "2026-03-09T21:47:00Z",
             "owner": "projectdiscovery",
             "repo": "nuclei",
-            "stars": 27432
+            "stars": 27441
           }
         }
       ],
@@ -901,7 +901,7 @@
             "last_commit": "2026-03-11T09:49:40Z",
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10761
+            "stars": 10764
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2025-04-26T08:47:06Z",
             "owner": "s0md3v",
             "repo": "XSStrike",
-            "stars": 14807
+            "stars": 14808
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2026-01-03T15:53:07Z",
             "owner": "cure53",
             "repo": "HTTPLeaks",
-            "stars": 2101
+            "stars": 2102
           }
         },
         {
@@ -1013,10 +1013,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-21T13:30:12Z",
+            "last_commit": "2026-03-12T15:30:50Z",
             "owner": "gitleaks",
             "repo": "gitleaks",
-            "stars": 25340
+            "stars": 25368
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-02-04T11:26:43Z",
             "owner": "hannob",
             "repo": "snallygaster",
-            "stars": 2104
+            "stars": 2105
           }
         },
         {
@@ -1094,10 +1094,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-09T09:33:54Z",
+            "last_commit": "2026-03-12T12:00:20Z",
             "owner": "RetireJS",
             "repo": "retire.js",
-            "stars": 4087
+            "stars": 4089
           }
         },
         {
@@ -1170,10 +1170,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-11T08:30:15Z",
+            "last_commit": "2026-03-12T13:52:53Z",
             "owner": "cure53",
             "repo": "DOMPurify",
-            "stars": 16732
+            "stars": 16737
           }
         },
         {
@@ -1236,7 +1236,7 @@
             "last_commit": "2024-12-24T15:37:05Z",
             "owner": "tennc",
             "repo": "webshell",
-            "stars": 10700
+            "stars": 10699
           }
         },
         {
@@ -1288,7 +1288,7 @@
             "last_commit": "2026-02-18T02:26:52Z",
             "owner": "lukechilds",
             "repo": "reverse-shell",
-            "stars": 2022
+            "stars": 2023
           }
         },
         {
@@ -1330,10 +1330,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-11T19:26:19Z",
+            "last_commit": "2026-03-12T15:30:52Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 23227
+            "stars": 23230
           }
         },
         {
@@ -1391,7 +1391,7 @@
             "last_commit": "2025-12-04T23:29:12Z",
             "owner": "nccgroup",
             "repo": "singularity",
-            "stars": 1267
+            "stars": 1269
           }
         },
         {
@@ -1428,7 +1428,7 @@
             "last_commit": "2026-03-11T12:13:54Z",
             "owner": "gchq",
             "repo": "CyberChef",
-            "stars": 34267
+            "stars": 34281
           }
         },
         {
@@ -1441,7 +1441,7 @@
             "last_commit": "2022-11-10T17:11:33Z",
             "owner": "nopfor",
             "repo": "ntlm_challenger",
-            "stars": 152
+            "stars": 151
           }
         },
         {
@@ -1612,7 +1612,7 @@
             "last_commit": "2025-10-20T02:12:59Z",
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5913
+            "stars": 5914
           }
         },
         {
@@ -1750,7 +1750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:10:41.223Z",
+    "last_updated": "2026-03-13T04:08:49.489Z",
     "original_repository": "qazbnm456/awesome-web-security",
     "source_repository": "v1nvn/enhansome-web-security",
     "source_repository_description": null,
